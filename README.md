@@ -69,7 +69,7 @@ Artificial Intelligence
 
 The graph below shows relationships extracted from Wikipedia data and structured into a knowledge graph.
 
-(Add your Neo4j screenshot here)
+![Visualisation](visualisation.png)
 
 ---
 
